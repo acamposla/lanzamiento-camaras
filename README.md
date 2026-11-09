@@ -44,7 +44,7 @@ con tipo, precio, resolución y alimentación; los más vendidos de dos pasillos
 | Cuota | Conservador 1 %, base 2 %, optimista 5 % del mercado del segmento | Una sola cifra esconde la incertidumbre |
 | Segmento compartido | Dos modelos propios en el mismo segmento se reparten la cuota | Si no, la marca se cuenta dos veces el mismo mercado |
 | Pedido | Ventas al mes del escenario por los meses de stock de seguridad | Lo que compras necesita para lanzar el pedido al proveedor |
-| Contraste | Ventas del escenario base frente al competidor de referencia | Si el base pide vender más de la mitad que el líder del segmento, se revisa |
+| Contraste | Ventas del escenario base frente al competidor de referencia | Si el base pide vender más de la mitad de lo que vende ese competidor, se revisa |
 
 Con los datos sintéticos, el contraste marca dos modelos. En los dos, el competidor de referencia
 vende muy poco para el tamaño de su segmento: o es un nicho que nadie ha ocupado todavía, o el
